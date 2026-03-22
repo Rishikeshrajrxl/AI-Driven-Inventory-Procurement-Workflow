@@ -1,6 +1,9 @@
 # 🚀 AI-Driven Inventory & Procurement Workflow  
 ### *(Google Sheets + Apps Script + Appian + AI Agent)*  
 
+<p align="center">
+  <img src="./unnamed (1).png" width="800"/>
+</p>
 ---
 
 ## 📌 Overview  
